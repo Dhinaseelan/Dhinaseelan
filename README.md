@@ -7,7 +7,7 @@
 <br/>
 
 <!-- Upgraded Animated Typing Title -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=500&color=00F5FF&center=true&vCenter=true&width=600&lines=⚡+FULL+STACK+DEVELOPER;🤖+AUTOMATION+TESTING+ENGINEER;🚀+REACT,+NODE.JS+%26+POSTGRES;🎓+MCA+SCHOLAR+%26+TECH+ENTHUSIAST)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=500&color=00F5FF&center=true&vCenter=true&width=600&lines=⚡+FULL+STACK+DEVELOPER;🚀+REACT,+NODE.JS+%26+POSTGRES;🧑‍💻+TECH+ENTHUSIAST)](https://git.io/typing-svg)
 
 <br/>
 
@@ -29,8 +29,7 @@
       <br/>
       • 🪐 Engineering sleek, responsive front-ends with <b>React, Next.js & JavaScript</b>.<br/>
       • 💻 Crafting robust backend architectures with <b>Node.js, Express & PostgreSQL</b>.<br/>
-      • 🛡️ Ensuring flawless deployment via rigorous <b>Automation Testing</b>.<br/>
-      • 🎓 Bridging deep theoretical foundations (MCA) with practical IT industry experience.
+      • 🎓 Bridging deep theoretical foundations with practical 
     </td>
     <td width="50%" valign="top">
       <h3 align="center">📂 Active Threads</h3>
